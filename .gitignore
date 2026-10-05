@@ -1,0 +1,14 @@
+.ssh-github/
+__pycache__/
+*.py[cod]
+
+# Generated presentation and image assets (kept locally)
+HD/
+outputs/
+pptx-source-extract/
+skills/outputs/
+*.pptx
+*.rar
+*.png
+*.jpg
+*.jpeg
