@@ -1,4 +1,4 @@
 interface:
-  display_name: "Historical Storybook 2D"
+  display_name: "Pure 2D Animation"
   short_description: "Style truyện tranh lịch sử Nam Á 2D đã khóa"
   default_prompt: "Use $pure-2d-animation to redraw this image in the locked historical storybook 2D style."
